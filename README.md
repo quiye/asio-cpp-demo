@@ -3,7 +3,7 @@
 ## Run Server
 
 ```sh
-$ go run cmd/main.go
+$ go run main.go
 2020/06/06 01:09:28 running ...
 ```
 
